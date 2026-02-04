@@ -1,6 +1,10 @@
 # Stitch — AI-Powered Panoramas & Image Stacking
 
 <p align="center">
+  <img src="images/app-icon.png" alt="Stitch App Icon" width="128" height="128">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/App_Store-Coming_Soon-blue.svg" alt="App Store">
   <img src="https://img.shields.io/badge/iOS-17.0+-000000.svg?logo=apple" alt="iOS 17+">
   <img src="https://img.shields.io/badge/Price-$4.99-green.svg" alt="Price">
@@ -17,6 +21,24 @@
 Stitch is a professional-grade photo processing app that combines traditional computer vision with cutting-edge AI to create stunning panoramas and stacked images. Whether you're a landscape photographer capturing sweeping vistas, an astrophotographer reducing noise in night shots, or a travel photographer removing crowds from your images, Stitch delivers results that rival desktop software.
 
 **Try before you buy** — Sample images are included so you can test every feature before purchasing.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshot-grid.png" alt="Image Selection" width="200">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-settings.png" alt="Settings" width="200">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-result.png" alt="Panorama Result" width="200">
+</p>
+
+<p align="center">
+  <img src="images/screenshot-projections.png" alt="Projection Types" width="200">
+  &nbsp;&nbsp;
+  <img src="images/screenshot-metrics.png" alt="Performance Metrics" width="200">
+</p>
 
 ---
 
